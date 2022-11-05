@@ -1,0 +1,21 @@
+.searchContainer{
+    background-color: rgb(1,22,30);
+    height: 250px;
+    position: relative;
+    display: flex;
+}
+
+input{
+    position: absolute;
+    left: 25%;
+    top: 30%;
+    display: inline-block;
+    width: 50%;
+    height: 25%;
+    font-size: 26px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(18,69,89);
+    color: rgb(239, 246, 224);
+    text-align: center;
+}

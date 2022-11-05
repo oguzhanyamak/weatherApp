@@ -1,3 +1,30 @@
+# Giriş
+Daha önce Javascript ile yapmış olduğum Hava durumu uygulamasını Angular üzerinde gerçekleştirilmektedir.
+Kodu çalıştırmak için gerekli direktifler aşağıda bulunmaktadır.
+Yazılanlara ek olarak proje dosyalarında node_mudules klasörü olmaması durumunda `npm i` ile eksik paketleri yükleyebilirsiniz 
+
+## Temel Bileşenler
+* Angular 
+* Bootstrap
+* https://openweathermap.org
+
+önceki projede olduğu gibi bu proje içinde bir API Key gerekmektedir.
+## Temel Amaç
+Angular üzerindeki temel yapıları hedef alan bir çalışmadır.
+Component
+Service
+Pipe
+Data binding
+style & class binding
+parent -> <- child  arasında veri transferi gibi temel konuların örneklendiği bir çalışmadır.
+
+
+## Görseller
+![Giriş](readmeFile/1.png)
+![Gelişme](readmeFile/2.png)
+![Sonuç](readmeFile/3.png)
+
+---
 # WeatherApp
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.6.
